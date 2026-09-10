@@ -1,1 +1,0 @@
-# IntroSQL-Chinook-Database
